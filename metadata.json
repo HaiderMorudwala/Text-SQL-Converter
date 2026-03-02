@@ -1,0 +1,5 @@
+{
+  "name": "Text-to-SQL Generator",
+  "description": "Translates natural language business questions into precise PostgreSQL queries based on a predefined schema.",
+  "requestFramePermissions": []
+}
